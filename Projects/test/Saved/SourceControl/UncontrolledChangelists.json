@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/gamedev/unreal_projects/Projects/test/Content/maps/main.umap",
+				"E:/gamedev/unreal_projects/Projects/test/Content/general/BP_Camera_Pawn.uasset",
+				"E:/gamedev/unreal_projects/Projects/test/Content/inputs/IA_Move_Camera_By_Key.uasset",
+				"E:/gamedev/unreal_projects/Projects/test/Content/inputs/IMP_Camera.uasset",
+				"E:/gamedev/unreal_projects/Projects/test/Content/general/BP_GameMode.uasset",
+				"E:/gamedev/unreal_projects/Projects/test/Content/inputs/IA_Rotate_Camera_by_Key.uasset",
+				"E:/gamedev/unreal_projects/Projects/test/Content/Cube_Blueprint_demo.uasset",
+				"E:/gamedev/unreal_projects/Projects/test/Content/inputs/IA_Straife_Camera_by_key.uasset",
+				"E:/gamedev/unreal_projects/Projects/test/Content/inputs/IA_Mouse_Control.uasset",
+				"E:/gamedev/unreal_projects/Projects/test/Content/inputs/IA_Mouse_Zoom.uasset"
+			]
+		}
+	]
+}
