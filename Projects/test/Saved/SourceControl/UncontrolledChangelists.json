@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/gamedev/unreal_projects/NockGameDev/Projects/test/Content/general/BP_Camera_Pawn.uasset",
 				"E:/gamedev/unreal_projects/Projects/test/Content/maps/main.umap",
 				"E:/gamedev/unreal_projects/Projects/test/Content/general/BP_Camera_Pawn.uasset",
 				"E:/gamedev/unreal_projects/Projects/test/Content/inputs/IA_Move_Camera_By_Key.uasset",
